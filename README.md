@@ -16,5 +16,5 @@
 <p align="center">
     edited by <a href="https://github.com/viperr-san">viperr</a> to make it work with <a href="https://github.com/dylanpdx/BetterTwitFix">BetterTwitFix</a>
 <p align="center">
-    all credits for the code go to by <a href="https://github.com/DorukSega">Doruk</a>
+    all credits for the code go to <a href="https://github.com/DorukSega">Doruk</a> and <a href="https://github.com/robinuniverse">Robin Universe</a>
 </p>
