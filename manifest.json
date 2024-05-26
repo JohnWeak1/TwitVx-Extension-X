@@ -14,7 +14,8 @@
         {
             "matches": [
                 "*://twitter.com/*",
-                "*://mobile.twitter.com/*"
+                "*://mobile.twitter.com/*",
+                "*://x.com/*"
             ],
             "js": [
                 "main.js"
